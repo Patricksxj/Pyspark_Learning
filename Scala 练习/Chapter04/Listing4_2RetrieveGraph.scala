@@ -1,1 +1,0 @@
-myGraph.edges.collect

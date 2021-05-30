@@ -1,1 +1,0 @@
-myGraph.triplets.collect
